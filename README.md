@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Algorithms**
 
-- 🤝 I’m looking for help with **I’m looking for help with Dataset creation and machine learning algo of GANS and Stable diffusion**
+- 🤝 I’m looking for help with **Dataset creation and machine learning algo of GANS and Stable diffusion**
 
 - 📝 I used to write articles on JavaScript, Linux, Ubuntu [https://linuxhint.com](https://linuxhint.com)
 
