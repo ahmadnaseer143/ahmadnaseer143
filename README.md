@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Remote Employee Monitoring System (REMS) which is a web application and desktop utility (.NET) that monitors remote-based employees keeping track of their timesheet, web usage, app usage, idle time, and active time on the computer, and generating monthly reports for all these as well as having real time communication via messenger, video call and conference calls and having the features of managing project and employees and paying these employees via stripe.](https://github.com/ahmadnaseer143/Final-Year-Project)
+- 🔭 I’m currently working on Remote Employee Monitoring System (REMS) which is a web application and desktop utility (.NET) that monitors remote-based employees keeping track of their timesheet, web usage, app usage, idle time, and active time on the computer, and generating monthly reports for all these as well as having real time communication via messenger, video call and conference calls and having the features of managing project and employees and paying these employees via stripe.[Github Link](https://github.com/ahmadnaseer143/Final-Year-Project)
 
 - 🌱 I’m currently learning **Machine Learning Algorithms**
 
