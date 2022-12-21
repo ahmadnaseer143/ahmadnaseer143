@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Mern stack, Java and technical writing.**
 
-- 📫 How to reach me **anaseer942@gmail.com**
+- 📫 How to reach me **anaseer942@gmail.com or on [LinkedIn profile](https://www.linkedin.com/in/ahmadnaseer143/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
