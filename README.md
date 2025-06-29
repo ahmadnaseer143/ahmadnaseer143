@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naseer Ahmad</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1000&width=435&lines=A+passionate+full+stack+developer+from+Pakistan.;MERN/MEAN+Stack+,+React+Native+,+ASP.NET" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1000&width=435&lines=A+passionate+full+stack+developer;MERN/MEAN+Stack+,+React+Native+,+ASP.NET" alt="Typing SVG" /></a>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadnaseer143&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadnaseer143" /> </p>
@@ -14,7 +14,7 @@
 
 - 📝 I used to write articles on JavaScript, Linux, Ubuntu [https://linuxhint.com](https://linuxhint.com)
 
-- 💬 Ask me about **Mern stack, Java and technical writing.**
+- 💬 Ask me about **Mern stack, JavaScript, asp.net and technical writing.**
 
 - 📫 How to reach me **anaseer942@gmail.com or on [LinkedIn profile](https://www.linkedin.com/in/ahmadnaseer143/)**
 
